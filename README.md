@@ -1,6 +1,3 @@
-# Electric-Vehicle-Performance-Market-Analysis-
-Project On Data Analysis
-
 
 # Electric-Vehicle-Performance-Market-Analysis-
 <img width="1456" height="945" alt="Screenshot 2026-07-05 at 9 05 16 PM" src="Screenshots/Electric Vehicle Performance &Market Analysis Dashboard.png" />
@@ -61,7 +58,7 @@ Combined Electric Vehicle Performance and Charging Infrastructure Datasets
 <img width="1456" height="945" alt="Screenshot 2026-07-05 at 9 05 16 PM" src="Screenshots/Electric Vehicle Performance &Market Analysis Dashboard.png" />
 
 ## Use Links
-- Github Repo: [GitHub Repository]()
+- Github Repo: [GitHub Repository](https://github.com/Kotimarpina/Electric_Vehicle_Performance-and-Market_Analysis.git)
 - Tableau Public Profile: [View Tableau Public Profile](https://public.tableau.com/app/profile/koti.marpina)
 - Tableau Dashboard: [View Dashboard](https://public.tableau.com/app/profile/koti.marpina/viz/Final_Dashboard_17840403590320/ElectricalVehicleDashboard?publish=yes)
 - Tableau Story: [View Story](https://public.tableau.com/app/profile/koti.marpina/viz/Final_DashboardStory/Story1?publish=yes)
